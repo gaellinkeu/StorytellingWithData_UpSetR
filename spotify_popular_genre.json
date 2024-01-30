@@ -1,0 +1,13 @@
+{
+	"file": "spotify_polular_genre.csv",
+	"name": "Most Popular Genre in Spotify from 1958 to 2019",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Year" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 10 }
+	]
+}
